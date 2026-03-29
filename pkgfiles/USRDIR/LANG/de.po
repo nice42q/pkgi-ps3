@@ -283,7 +283,7 @@ msgstr "Ordner kann nicht erstellt werden"
 
 #: pkgi_download.c:475
 msgid "cannot create file"
-msgstr "kann Datei nicht erstellen"
+msgstr "Datei kann nicht erstellt werden"
 
 #: pkgi_download.c:490
 msgid "cannot resume file"
